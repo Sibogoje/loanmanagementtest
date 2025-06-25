@@ -1,7 +1,7 @@
 <?php
 //session_start();
 // Change this to your connection info.
-$DATABASE_HOST = '194.5.156.43';
+$DATABASE_HOST = '195.35.53.20';
 $DATABASE_USER = 'u747325399_mcenge';
 $DATABASE_PASS = 'Mcenge!5474';
 $DATABASE_NAME = 'u747325399_mcenge';
